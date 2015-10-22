@@ -1,0 +1,21 @@
+{
+  "name": "cryptess",
+  "version": "0.0.1",
+  "description": "Easy file encrypt/decrypt util",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "encrypt"
+  ],
+  "author": "hikerpig",
+  "license": "MIT",
+  "dependencies": {
+    "cryptico": "*",
+    "chalk": "*",
+    "lodash": "*",
+    "readline-sync": "*",
+    "commander": "*"
+  }
+}
